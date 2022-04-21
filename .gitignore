@@ -9,7 +9,7 @@
 /*
 
 .~u
-.precompile
+.precompilecache
 
 # Do not ignore .projectfiles
 !.project
