@@ -8,12 +8,8 @@
 # Ignore everything
 /*
 
-.~u
-.precompilecache
-
-# Do not ignore .projectfiles
-!.project
-!*/.project
+# Do not ignore Main Project
+!TestProject3.project
 
 # Do not ignore .gitignore files
 !.gitignore
